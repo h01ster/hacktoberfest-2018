@@ -112,6 +112,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![facebook-alt][facebook-img]](https://www.facebook.com/ac.ananya)
   [![github-alt][github-img]](https://github.com/ananya1304)
 
+
+### Ashutosh Anand
+- Student, Designer
+- [![github-alt][github-img]](https://github.com/h01ster)
+
 ### Anastasis Xouzafeiris (aka anksos)
 - I am a VMware engineer
 - I'm currently working as a Virtualization Specialist
